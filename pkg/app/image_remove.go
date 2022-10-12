@@ -16,6 +16,7 @@ package app
 
 import (
 	"fmt"
+	"strings"
 
 	"github.com/cockroachdb/errors"
 	"github.com/sirupsen/logrus"
@@ -31,14 +32,8 @@ var CommandRemoveImage = &cli.Command{
 	Flags: []cli.Flag{
 		&cli.StringFlag{
 			Name:    "image",
-			Usage:   "Specify the image name to be removed",
+			Usage:   "Specify the image name (or `name:tag`) to be removed",
 			Aliases: []string{"i"},
-		},
-		&cli.StringFlag{
-			Name:        "tag",
-			Usage:       "Remove the image with a specific tag",
-			Aliases:     []string{"t"},
-			DefaultText: "dev",
 		},
 	},
 	Action: removeImage,
@@ -49,20 +44,19 @@ func removeImage(clicontext *cli.Context) error {
 	if imageName == "" {
 		return errors.New("image name is required, find images by `envd images list`")
 	}
-	tag := clicontext.String("tag")
-	if tag == "" {
+	if !strings.Contains(imageName, ":") {
+		// set default tag
 		logrus.Debug("tag not specified, using default tag: `dev`")
-		tag = "dev"
+		imageName = fmt.Sprintf("%s:%s", imageName, "dev")
 	}
-	imageNameWithTag := fmt.Sprintf("%s:%s", imageName, tag)
 
 	dockerClient, err := docker.NewClient(clicontext.Context)
 	if err != nil {
 		return err
 	}
-	if err := dockerClient.RemoveImage(clicontext.Context, imageNameWithTag); err != nil {
-		return errors.Errorf("remove image %s failed: %w", imageNameWithTag, err)
+	if err := dockerClient.RemoveImage(clicontext.Context, imageName); err != nil {
+		return errors.Errorf("remove image %s failed: %w", imageName, err)
 	}
-	logrus.Infof("image(%s) has removed", imageNameWithTag)
+	logrus.Infof("image(%s) has removed", imageName)
 	return nil
 }
