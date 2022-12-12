@@ -13,7 +13,7 @@ require (
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/gliderlabs/ssh v0.3.5
-	github.com/go-git/go-git/v5 v5.5.0
+	github.com/go-git/go-git/v5 v5.5.1
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
 	github.com/moby/buildkit v0.10.6
@@ -47,7 +47,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/op/go-logging v0.0.0-20160211212156-b2cb9fa56473 // indirect
-	github.com/pjbgf/sha1cd v0.2.0 // indirect
+	github.com/pjbgf/sha1cd v0.2.3 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/skeema/knownhosts v1.1.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
@@ -114,7 +114,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/tonistiigi/fsutil v0.0.0-20220315205639-9ed612626da3 // indirect
-	github.com/xanzy/ssh-agent v0.3.2 // indirect
+	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.29.0 // indirect
 	go.opentelemetry.io/otel v1.4.1 // indirect
