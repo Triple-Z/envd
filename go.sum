@@ -546,8 +546,8 @@ github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/subosito/gotenv v1.4.2 h1:X1TuBLAMDFbaTAChgCBLu3DU3UPyELpnF2jjJ2cz/S8=
 github.com/subosito/gotenv v1.4.2/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
 github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
-github.com/tensorchord/envd-server v0.0.24 h1:z+q+kjP9em8X3LvhrDvxVmlQGrb4V3nG70eQKi9ac3g=
-github.com/tensorchord/envd-server v0.0.24/go.mod h1:ldymfF2FMirCK9A780013OUc1hnLgya91efFA0zUc2U=
+github.com/tensorchord/envd-server v0.0.25 h1:r9cthgOmhqJl7keetaAFp9h2s7BeHMf+05vMxENkx4w=
+github.com/tensorchord/envd-server v0.0.25/go.mod h1:BmXRR/nVGPCtjaTCe7QVH26R4T+FEKbxJa9LGa7o0GA=
 github.com/tonistiigi/fsutil v0.0.0-20230105215944-fb433841cbfa h1:XOFp/3aBXlqmOFAg3r6e0qQjPnK5I970LilqX+Is1W8=
 github.com/tonistiigi/fsutil v0.0.0-20230105215944-fb433841cbfa/go.mod h1:AvLEd1LEIl64G2Jpgwo7aVV5lGH0ePcKl0ygGIHNYl8=
 github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea h1:SXhTLE6pb6eld/v/cCndK0AMpt1wiVFb/YYmqB3/QG0=
