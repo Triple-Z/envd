@@ -37,7 +37,7 @@ require (
 	golang.org/x/sync v0.1.0
 	golang.org/x/term v0.7.0
 	golang.org/x/time v0.3.0
-	k8s.io/api v0.26.3
+	k8s.io/api v0.27.1
 )
 
 require (
@@ -59,10 +59,10 @@ require (
 	golang.org/x/mod v0.9.0 // indirect
 	golang.org/x/tools v0.7.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	k8s.io/apimachinery v0.26.3 // indirect
+	k8s.io/apimachinery v0.27.1 // indirect
 	k8s.io/klog/v2 v2.90.1 // indirect
 	k8s.io/utils v0.0.0-20230220204549-a5ecb0141aa5 // indirect
-	sigs.k8s.io/json v0.0.0-20220713155537-f223a00ba0e2 // indirect
+	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )
 
@@ -111,7 +111,7 @@ require (
 	github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rogpeppe/go-internal v1.8.1 // indirect
+	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/spf13/afero v1.9.3 // indirect
