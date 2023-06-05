@@ -6,7 +6,7 @@ require (
 	github.com/alessio/shellescape v1.4.1
 	github.com/cockroachdb/errors v1.9.1
 	github.com/containerd/console v1.0.3
-	github.com/containerd/containerd v1.7.2
+	github.com/containerd/containerd v1.6.19
 	github.com/creack/pty v1.1.18
 	github.com/docker/docker v23.0.3+incompatible
 	github.com/docker/go-connections v0.4.0
@@ -23,12 +23,12 @@ require (
 	github.com/onsi/ginkgo/v2 v2.9.7
 	github.com/onsi/gomega v1.27.7
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.1.0-rc2.0.20221005185240-3a7f492d3f1b
+	github.com/opencontainers/image-spec v1.1.0-rc.3
 	github.com/pkg/sftp v1.13.5
 	github.com/sirupsen/logrus v1.9.2
 	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.3
-	github.com/tensorchord/envd-server v0.0.27
+	github.com/tensorchord/envd-server v0.0.3
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
 	github.com/tonistiigi/vt100 v0.0.0-20210615222946-8066bb97264f
 	github.com/urfave/cli/v2 v2.25.5
@@ -43,13 +43,13 @@ require (
 require (
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3 // indirect
-	github.com/containerd/typeurl/v2 v2.1.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/pprof v0.0.0-20221203041831-ce31453925ec // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
+	github.com/klauspost/compress v1.16.0 // indirect
 	github.com/moby/patternmatcher v0.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
