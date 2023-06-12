@@ -20,7 +20,7 @@ require (
 	github.com/moby/term v0.5.0
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/onsi/ginkgo/v2 v2.9.7
+	github.com/onsi/ginkgo/v2 v2.10.0
 	github.com/onsi/gomega v1.27.7
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0-rc.3
@@ -59,7 +59,7 @@ require (
 	github.com/skeema/knownhosts v1.1.1 // indirect
 	go.opentelemetry.io/otel/metric v0.37.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/tools v0.9.1 // indirect
+	golang.org/x/tools v0.9.3 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/apimachinery v0.27.2 // indirect
 	k8s.io/klog/v2 v2.90.1 // indirect
