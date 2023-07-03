@@ -23,7 +23,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.11.0
 	github.com/onsi/gomega v1.27.8
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.1.0-rc2.0.20221005185240-3a7f492d3f1b
+	github.com/opencontainers/image-spec v1.1.0-rc4
 	github.com/pkg/sftp v1.13.5
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/viper v1.16.0
