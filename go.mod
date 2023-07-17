@@ -6,9 +6,9 @@ require (
 	github.com/alessio/shellescape v1.4.1
 	github.com/cockroachdb/errors v1.10.0
 	github.com/containerd/console v1.0.3
-	github.com/containerd/containerd v1.6.20
+	github.com/containerd/containerd v1.7.2
 	github.com/creack/pty v1.1.18
-	github.com/docker/docker v23.0.3+incompatible
+	github.com/docker/docker v24.0.0-rc.2.0.20230706181717-98d3da79ef9c+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.7.0
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
-	github.com/moby/buildkit v0.11.6
+	github.com/moby/buildkit v0.12.0
 	github.com/moby/term v0.5.0
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
@@ -30,7 +30,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/tensorchord/envd-server v0.0.27
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
-	github.com/tonistiigi/vt100 v0.0.0-20210615222946-8066bb97264f
+	github.com/tonistiigi/vt100 v0.0.0-20230623042737-f9a4f7ef6531
 	github.com/urfave/cli/v2 v2.25.7
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
 	golang.org/x/crypto v0.11.0
@@ -42,14 +42,13 @@ require (
 
 require (
 	github.com/cloudflare/circl v1.3.3 // indirect
-	github.com/containerd/stargz-snapshotter/estargz v0.14.3 // indirect
+	github.com/containerd/typeurl/v2 v2.1.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/pprof v0.0.0-20221203041831-ce31453925ec // indirect
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0 // indirect
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.16.0 // indirect
 	github.com/moby/patternmatcher v0.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
@@ -78,11 +77,10 @@ require (
 	github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b // indirect
 	github.com/cockroachdb/redact v1.1.5 // indirect
 	github.com/containerd/continuity v0.4.1 // indirect
-	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/docker/cli v23.0.3+incompatible // indirect
-	github.com/docker/distribution v2.8.1+incompatible // indirect
+	github.com/docker/cli v24.0.2+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
@@ -121,7 +119,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
-	github.com/tonistiigi/fsutil v0.0.0-20230105215944-fb433841cbfa // indirect
+	github.com/tonistiigi/fsutil v0.0.0-20230629203738-36ef4d8c0dbb // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.40.0 // indirect
