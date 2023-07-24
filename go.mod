@@ -3,7 +3,7 @@ module github.com/tensorchord/envd
 go 1.18
 
 require (
-	github.com/alessio/shellescape v1.4.1
+	github.com/alessio/shellescape v1.4.2
 	github.com/cockroachdb/errors v1.10.0
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.7.2
