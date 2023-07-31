@@ -13,7 +13,7 @@ require (
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/gliderlabs/ssh v0.3.5
-	github.com/go-git/go-git/v5 v5.8.0
+	github.com/go-git/go-git/v5 v5.8.1
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
 	github.com/moby/buildkit v0.12.0
@@ -41,6 +41,7 @@ require (
 )
 
 require (
+	dario.cat/mergo v1.0.0 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/containerd/typeurl/v2 v2.1.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
@@ -55,7 +56,7 @@ require (
 	github.com/op/go-logging v0.0.0-20160211212156-b2cb9fa56473 // indirect
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/skeema/knownhosts v1.1.1 // indirect
+	github.com/skeema/knownhosts v1.2.0 // indirect
 	go.opentelemetry.io/otel/metric v0.37.0 // indirect
 	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/tools v0.9.3 // indirect
@@ -70,7 +71,7 @@ require (
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
-	github.com/ProtonMail/go-crypto v0.0.0-20230518184743-7afd39499903 // indirect
+	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
 	github.com/acomagu/bufpipe v1.0.4 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
 	github.com/bcicen/ctop v0.7.7
@@ -97,7 +98,6 @@ require (
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/imdario/mergo v0.3.15 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/kr/fs v0.1.0 // indirect
