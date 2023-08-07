@@ -8,7 +8,7 @@ require (
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.7.3
 	github.com/creack/pty v1.1.18
-	github.com/docker/docker v24.0.0-rc.2.0.20230706181717-98d3da79ef9c+incompatible
+	github.com/docker/docker v24.0.0-rc.2.0.20230718135204-8e51b8b59cb8+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.8.1
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
-	github.com/moby/buildkit v0.12.0
+	github.com/moby/buildkit v0.12.1
 	github.com/moby/term v0.5.0
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
@@ -80,7 +80,7 @@ require (
 	github.com/containerd/continuity v0.4.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/docker/cli v24.0.2+incompatible // indirect
+	github.com/docker/cli v24.0.4+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
