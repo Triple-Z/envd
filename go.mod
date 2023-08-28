@@ -6,7 +6,7 @@ require (
 	github.com/alessio/shellescape v1.4.2
 	github.com/cockroachdb/errors v1.10.0
 	github.com/containerd/console v1.0.3
-	github.com/containerd/containerd v1.7.3
+	github.com/containerd/containerd v1.7.5
 	github.com/creack/pty v1.1.18
 	github.com/docker/docker v24.0.0-rc.2.0.20230718135204-8e51b8b59cb8+incompatible
 	github.com/docker/go-connections v0.4.0
@@ -77,7 +77,7 @@ require (
 	github.com/bcicen/ctop v0.7.7
 	github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b // indirect
 	github.com/cockroachdb/redact v1.1.5 // indirect
-	github.com/containerd/continuity v0.4.1 // indirect
+	github.com/containerd/continuity v0.4.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/cli v24.0.4+incompatible // indirect
