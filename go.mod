@@ -35,7 +35,7 @@ require (
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
 	golang.org/x/crypto v0.13.0
 	golang.org/x/sync v0.4.0
-	golang.org/x/term v0.12.0
+	golang.org/x/term v0.13.0
 	golang.org/x/time v0.3.0
 	k8s.io/api v0.28.2
 )
@@ -138,7 +138,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.14.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.19.0 // indirect
 	golang.org/x/net v0.15.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
 	google.golang.org/genproto v0.0.0-20230913181813-007df8e322eb // indirect
 	google.golang.org/grpc v1.58.2 // indirect
