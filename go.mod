@@ -33,9 +33,9 @@ require (
 	github.com/tonistiigi/vt100 v0.0.0-20230623042737-f9a4f7ef6531
 	github.com/urfave/cli/v2 v2.25.7
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
-	golang.org/x/crypto v0.14.0
+	golang.org/x/crypto v0.15.0
 	golang.org/x/sync v0.5.0
-	golang.org/x/term v0.13.0
+	golang.org/x/term v0.14.0
 	golang.org/x/time v0.4.0
 	k8s.io/api v0.28.3
 )
@@ -139,8 +139,8 @@ require (
 	go.opentelemetry.io/otel/trace v1.14.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.19.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/genproto v0.0.0-20230913181813-007df8e322eb // indirect
 	google.golang.org/grpc v1.58.3 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
