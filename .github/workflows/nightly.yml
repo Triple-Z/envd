@@ -15,7 +15,7 @@ jobs:
     name: lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-go@v4
+      - uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - uses: actions/checkout@v4
@@ -49,7 +49,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - name: Cache Go modules
@@ -82,7 +82,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - name: Cache Go modules
@@ -115,7 +115,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - name: Cache Go modules
@@ -149,7 +149,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - name: Install bins
@@ -187,7 +187,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - name: Cache Go modules
@@ -211,7 +211,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
           go-version: 1.18
       - name: Cache Go modules
