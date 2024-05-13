@@ -33,7 +33,7 @@ require (
 	github.com/tonistiigi/vt100 v0.0.0-20230623042737-f9a4f7ef6531
 	github.com/urfave/cli/v2 v2.27.2
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
-	golang.org/x/crypto v0.22.0
+	golang.org/x/crypto v0.23.0
 	golang.org/x/sync v0.7.0
 	golang.org/x/term v0.20.0
 	golang.org/x/time v0.5.0
@@ -152,7 +152,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.0.0 // indirect
 	golang.org/x/net v0.24.0 // indirect
 	golang.org/x/sys v0.20.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/text v0.15.0 // indirect
 	google.golang.org/grpc v1.59.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
