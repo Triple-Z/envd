@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/alessio/shellescape v1.4.2
-	github.com/cockroachdb/errors v1.11.1
+	github.com/cockroachdb/errors v1.11.2
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.17
 	github.com/creack/pty v1.1.21
