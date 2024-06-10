@@ -6,7 +6,7 @@ require (
 	github.com/alessio/shellescape v1.4.2
 	github.com/cockroachdb/errors v1.11.3
 	github.com/containerd/console v1.0.4
-	github.com/containerd/containerd v1.7.17
+	github.com/containerd/containerd v1.7.18
 	github.com/creack/pty v1.1.21
 	github.com/docker/docker v25.0.3+incompatible
 	github.com/docker/go-connections v0.5.0
@@ -45,6 +45,7 @@ require (
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24 // indirect
 	github.com/Microsoft/hcsshim v0.11.5 // indirect
 	github.com/cloudflare/circl v1.3.7 // indirect
+	github.com/containerd/errdefs v0.1.0 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/ttrpc v1.2.4 // indirect
 	github.com/containerd/typeurl/v2 v2.1.1 // indirect
