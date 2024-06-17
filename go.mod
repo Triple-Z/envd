@@ -8,7 +8,7 @@ require (
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.18
 	github.com/creack/pty v1.1.21
-	github.com/docker/docker v25.0.3+incompatible
+	github.com/docker/docker v26.1.4+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
-	github.com/moby/buildkit v0.13.1
+	github.com/moby/buildkit v0.14.0
 	github.com/moby/term v0.5.0
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
@@ -30,7 +30,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/tensorchord/envd-server v0.0.27
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
-	github.com/tonistiigi/vt100 v0.0.0-20230623042737-f9a4f7ef6531
+	github.com/tonistiigi/vt100 v0.0.0-20240514184818-90bafcd6abab
 	github.com/urfave/cli/v2 v2.27.2
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
 	golang.org/x/crypto v0.24.0
@@ -50,14 +50,16 @@ require (
 	github.com/containerd/ttrpc v1.2.4 // indirect
 	github.com/containerd/typeurl/v2 v2.1.1 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
-	github.com/distribution/reference v0.5.0 // indirect
+	github.com/distribution/reference v0.6.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/pprof v0.0.0-20240424215950-a892ee059fd6 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0 // indirect
+	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/in-toto/in-toto-golang v0.5.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.17.4 // indirect
@@ -75,6 +77,7 @@ require (
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
 	github.com/skeema/knownhosts v1.2.2 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.46.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.49.0 // indirect
 	go.opentelemetry.io/otel/metric v1.24.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
@@ -103,7 +106,7 @@ require (
 	github.com/containerd/continuity v0.4.3 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/docker/cli v25.0.3+incompatible // indirect
+	github.com/docker/cli v26.1.4+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.8.0 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
@@ -119,7 +122,6 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
-	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
@@ -141,7 +143,7 @@ require (
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
-	github.com/tonistiigi/fsutil v0.0.0-20240301111122-7525a1af2bb5 // indirect
+	github.com/tonistiigi/fsutil v0.0.0-20240424095704-91a3fc46842c // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xrash/smetrics v0.0.0-20240312152122-5f08fbb34913 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.49.0 // indirect
