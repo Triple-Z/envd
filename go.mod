@@ -7,7 +7,7 @@ require (
 	github.com/cockroachdb/errors v1.11.3
 	github.com/containerd/console v1.0.4
 	github.com/containerd/containerd v1.7.20
-	github.com/creack/pty v1.1.21
+	github.com/creack/pty v1.1.23
 	github.com/docker/docker v27.0.3+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/docker/go-units v0.5.0
