@@ -252,8 +252,8 @@ github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7 h1:DpOJ2HYzC
 github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7/go.mod h1:ZXFpozHsX6DPmq2I0TCekCxypsnAUbP2oI0UX1GXzOo=
 github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
-github.com/moby/buildkit v0.15.1 h1:J6wrew7hphKqlq1wuu6yaUb/1Ra7gEzDAovylGztAKM=
-github.com/moby/buildkit v0.15.1/go.mod h1:Yis8ZMUJTHX9XhH9zVyK2igqSHV3sxi3UN0uztZocZk=
+github.com/moby/buildkit v0.15.2 h1:DnONr0AoceTWyv+plsQ7IhkSaj+6o0WyoaxYPyTFIxs=
+github.com/moby/buildkit v0.15.2/go.mod h1:Yis8ZMUJTHX9XhH9zVyK2igqSHV3sxi3UN0uztZocZk=
 github.com/moby/docker-image-spec v1.3.1 h1:jMKff3w6PgbfSa69GfNg+zN/XLhfXJGnEx3Nl2EsFP0=
 github.com/moby/docker-image-spec v1.3.1/go.mod h1:eKmb5VW8vQEh/BAr2yvVNvuiJuY6UIocYsFu/DxxRpo=
 github.com/moby/locker v1.0.1 h1:fOXqR41zeveg4fFODix+1Ch4mj/gT0NE1XJbp/epuBg=
