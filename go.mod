@@ -17,7 +17,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
 	github.com/moby/buildkit v0.17.1
-	github.com/moby/term v0.5.0
+	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/onsi/ginkgo/v2 v2.22.1
@@ -103,7 +103,7 @@ require (
 )
 
 require (
-	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
+	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/ProtonMail/go-crypto v1.1.3 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
