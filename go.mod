@@ -34,7 +34,7 @@ require (
 	github.com/urfave/cli/v2 v2.27.5
 	go.starlark.net v0.0.0-20220328144851-d1966c6b9fcd
 	golang.org/x/crypto v0.32.0
-	golang.org/x/sync v0.10.0
+	golang.org/x/sync v0.11.0
 	golang.org/x/term v0.28.0
 	golang.org/x/time v0.9.0
 	k8s.io/api v0.32.1
