@@ -7,7 +7,7 @@ require (
 	github.com/alessio/shellescape v1.4.2
 	github.com/cockroachdb/errors v1.11.3
 	github.com/containerd/console v1.0.4
-	github.com/containerd/containerd v1.7.23
+	github.com/containerd/containerd v1.7.27
 	github.com/creack/pty v1.1.24
 	github.com/docker/docker v27.5.1+incompatible
 	github.com/docker/go-connections v0.5.0
