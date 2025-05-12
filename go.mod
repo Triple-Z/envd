@@ -1,6 +1,7 @@
 module github.com/tensorchord/envd
 
-go 1.18
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -22,7 +23,7 @@ require (
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/onsi/ginkgo/v2 v2.23.3
-	github.com/onsi/gomega v1.36.3
+	github.com/onsi/gomega v1.37.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.1
 	github.com/pkg/sftp v1.13.8
