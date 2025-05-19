@@ -21,7 +21,7 @@ require (
 	github.com/moby/buildkit v0.21.1
 	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.0.0
-	github.com/olekukonko/tablewriter v1.0.2
+	github.com/olekukonko/tablewriter v1.0.6
 	github.com/onsi/ginkgo/v2 v2.23.3
 	github.com/onsi/gomega v1.37.0
 	github.com/opencontainers/go-digest v1.0.0
@@ -79,7 +79,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/olekukonko/errors v0.0.0-20250405072817-4e6d85265da6 // indirect
-	github.com/olekukonko/ll v0.0.6-0.20250511102614-9564773e9d27 // indirect
+	github.com/olekukonko/ll v0.0.8-0.20250516010636-22ea57d81985 // indirect
 	github.com/op/go-logging v0.0.0-20160211212156-b2cb9fa56473 // indirect
 	github.com/pjbgf/sha1cd v0.3.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
