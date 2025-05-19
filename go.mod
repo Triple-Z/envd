@@ -15,7 +15,7 @@ require (
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/gliderlabs/ssh v0.3.8
-	github.com/go-git/go-git/v5 v5.14.0
+	github.com/go-git/go-git/v5 v5.16.0
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
 	github.com/moby/buildkit v0.21.1
@@ -46,7 +46,7 @@ require (
 	dario.cat/mergo v1.0.1 // indirect
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6 // indirect
 	github.com/Microsoft/hcsshim v0.12.9 // indirect
-	github.com/cloudflare/circl v1.6.0 // indirect
+	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/containerd/containerd/api v1.8.0 // indirect
 	github.com/containerd/containerd/v2 v2.0.4 // indirect
 	github.com/containerd/errdefs v1.0.0 // indirect
@@ -113,7 +113,7 @@ require (
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
-	github.com/ProtonMail/go-crypto v1.1.5 // indirect
+	github.com/ProtonMail/go-crypto v1.1.6 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
 	github.com/bcicen/ctop v0.7.7
 	github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b // indirect
