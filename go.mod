@@ -21,7 +21,7 @@ require (
 	github.com/moby/buildkit v0.23.1
 	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.0.0
-	github.com/olekukonko/tablewriter v1.0.7
+	github.com/olekukonko/tablewriter v1.0.8
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
 	github.com/opencontainers/go-digest v1.0.0
