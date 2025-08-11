@@ -11,7 +11,7 @@ require (
 	github.com/containerd/containerd v1.7.28
 	github.com/creack/pty v1.1.24
 	github.com/docker/docker v28.2.2+incompatible
-	github.com/docker/go-connections v0.5.0
+	github.com/docker/go-connections v0.6.0
 	github.com/docker/go-units v0.5.0
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/gliderlabs/ssh v0.3.8
