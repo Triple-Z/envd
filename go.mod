@@ -18,7 +18,7 @@ require (
 	github.com/go-git/go-git/v5 v5.16.2
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
-	github.com/moby/buildkit v0.24.0
+	github.com/moby/buildkit v0.25.0
 	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.0.0
 	github.com/olekukonko/tablewriter v1.1.0
@@ -119,7 +119,7 @@ require (
 	github.com/containerd/continuity v0.4.5 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/docker/cli v28.3.3+incompatible // indirect
+	github.com/docker/cli v28.4.0+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.9.3 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
@@ -165,7 +165,7 @@ require (
 	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/text v0.29.0 // indirect
 	google.golang.org/grpc v1.72.2 // indirect
-	google.golang.org/protobuf v1.36.7 // indirect
+	google.golang.org/protobuf v1.36.9 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
