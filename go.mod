@@ -18,7 +18,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/moby/buildkit v0.26.2
 	github.com/moby/term v0.5.2
-	github.com/morikuni/aec v1.0.0
+	github.com/morikuni/aec v1.1.0
 	github.com/olekukonko/tablewriter v1.1.2
 	github.com/onsi/ginkgo/v2 v2.27.2
 	github.com/onsi/gomega v1.38.2
