@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.16.4
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
-	github.com/moby/buildkit v0.26.2
+	github.com/moby/buildkit v0.26.3
 	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.1.0
 	github.com/olekukonko/tablewriter v1.1.3
