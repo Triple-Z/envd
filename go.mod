@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.19.1
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
-	github.com/moby/buildkit v0.31.1
+	github.com/moby/buildkit v0.31.2
 	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.1.0
 	github.com/olekukonko/tablewriter v1.1.4
@@ -155,7 +155,7 @@ require (
 	github.com/spf13/cast v1.10.0 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
-	github.com/tonistiigi/fsutil v0.0.0-20260609091201-0257b3308df4 // indirect
+	github.com/tonistiigi/fsutil v0.0.0-20260716115106-30cd4fc5d911 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.69.0 // indirect
