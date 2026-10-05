@@ -1,6 +1,6 @@
 module github.com/tensorchord/envd
 
-go 1.26.3
+go 1.26.8
 
 require (
 	github.com/alessio/shellescape v1.4.2
@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.19.2
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.6.0
-	github.com/moby/buildkit v0.33.0
+	github.com/moby/buildkit v0.33.1
 	github.com/moby/term v0.5.2
 	github.com/morikuni/aec v1.1.0
 	github.com/olekukonko/tablewriter v1.1.5
@@ -49,7 +49,7 @@ require (
 	github.com/clipperhouse/uax29/v2 v2.6.0 // indirect
 	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/containerd/containerd/api v1.11.1 // indirect
-	github.com/containerd/containerd/v2 v2.3.4 // indirect
+	github.com/containerd/containerd/v2 v2.3.6 // indirect
 	github.com/containerd/errdefs v1.0.0 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/log v0.1.0 // indirect
